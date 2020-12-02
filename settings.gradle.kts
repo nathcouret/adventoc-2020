@@ -8,4 +8,4 @@
  */
 
 rootProject.name = "adventoc-2020"
-include("day1")
+include("day1", "day2")
